@@ -25,7 +25,7 @@ public class OldRobotBuilder implements RobotBuilder {
 
     @Override
     public void buildRobotLegs() {
-        robot.setRobotLegs("on roller skates with 25 degrees freedom");
+        robot.setRobotLegs("on roller skates with 25-360 degrees freedom");
     }
 
     //@Override
