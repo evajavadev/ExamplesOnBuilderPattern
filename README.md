@@ -12,6 +12,6 @@ presentation ... soon up
 
 <br>
 
-Computer Components
+### Computer Components
 
 ...
