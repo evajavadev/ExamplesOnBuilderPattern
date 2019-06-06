@@ -16,8 +16,12 @@ description ... soon up
 
 <br>
 <br>
+<br>
 
 ![promt on robots](/images/RobotsOnWay.jpg)
+
+<br>
+
 ![promt on robots' code](/images/soutRobotsOnWay.jpg)
 
 <br>
