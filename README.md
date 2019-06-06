@@ -12,7 +12,7 @@ description ... soon up
 ![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
 
 ![promt on robots](/images/RobotsOnWay.jpg)
-![promt on robots' code](/images/RobotsOnWay.jpg)
+![promt on robots' code](/images/soutRobotsOnWay.jpg)
 
 <br>
 <br>
