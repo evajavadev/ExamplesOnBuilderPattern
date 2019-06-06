@@ -9,7 +9,13 @@ Different program examples on the builder pattern
 description ... soon up
 
 ![promt on a robot](/images/aRobotOnWay.jpg) 
+
+<br>
+
 ![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
+
+<br>
+<br>
 
 ![promt on robots](/images/RobotsOnWay.jpg)
 ![promt on robots' code](/images/soutRobotsOnWay.jpg)
