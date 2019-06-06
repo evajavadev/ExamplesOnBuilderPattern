@@ -1,8 +1,15 @@
 # Examples On Builder Pattern
 
-Different program examples on the builder pattern
+Below some different program examples on the builder design pattern. 
 
 <br>
+
+My own simple definition of what a builder pattern does, is just that its builder class replaces the setters.
+
+To make this happen 
+
+<br>
+
 
 ### In Robot Style
 
