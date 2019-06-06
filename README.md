@@ -11,24 +11,32 @@ presentation ... soon up
 ![the index image](/images/arobotonway.jpg) 
 
 <br>
+<br>
+
 
 ### Computer Components
 
 ...
 
 <br>
+<br>
+
 
 ### example 3
 
 ...
 
 <br>
+<br>
+
 
 ### example 4
 
 ...
 
 <br>
+<br>
+
 
 ### The Flower Garden
 
