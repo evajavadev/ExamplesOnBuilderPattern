@@ -6,9 +6,13 @@ Different program examples on the builder pattern
 
 ### In Robot Style
 
-presentation ... soon up
+description ... soon up
 
-![the index image](/images/arobotonway.jpg) 
+![promt on a robot](/images/aRobotOnWay.jpg) 
+![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
+
+![promt on robots](/images/RobotsOnWay.jpg)
+![promt on robots' code](/images/RobotsOnWay.jpg)
 
 <br>
 <br>

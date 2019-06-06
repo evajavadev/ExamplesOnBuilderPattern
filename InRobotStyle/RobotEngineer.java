@@ -3,7 +3,7 @@ public class RobotEngineer {
     private RobotBuilder robotBuilder;
 
     public RobotEngineer(RobotBuilder robotBuilder) {   // in RobotEngineer is RobotBuilder defined,
-        this.robotBuilder = robotBuilder;               // i OldRobotBuilder is Robot defined.
+        this.robotBuilder = robotBuilder;               // i FirstRobotBuilderImpl is Robot defined.
     }                                                   // = backtrack.
 
     public Robot getRobot() {
