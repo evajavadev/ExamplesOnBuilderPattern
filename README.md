@@ -6,18 +6,18 @@
 
 <br>
 
-My own *simple definition* of what a builder pattern does, is just that its `builder class` replaces most of the `setters`. And this is great when for example a complex object needs to create several different representations. Using the same construction proccess. 
+My own *simple definition* of what a builder pattern does, is just that its `Builder class` replaces most of the `setters`. And this is great when for example a complex object needs to create several different representations. Using the same construction proccess. 
 
 The purpose can be to protect the data, so only the `Builder` knows the specifics.   
 
-To make this happen, a `public static Builder class` is created. And its `constructor`. And these two guys must reside inside the `public class of the data`.   
+To make this happen, a `public static Builder class` is created. And its `constructor`. And these two guys must reside inside the `public class of the Data`.   
 
 <br>
 
 
 ### In Robot Style
 
-description ... soon up
+This program is from [Derek Banas](https://www.youtube.com/user/derekbanas) video [Builder Design Pattern](https://www.youtube.com/watch?v=9XnsOpjclUg). 
 
 ![promt on a robot](/images/aRobotOnWay.jpg) 
 
