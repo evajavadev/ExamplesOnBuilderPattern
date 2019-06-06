@@ -6,7 +6,7 @@
 
 <br>
 
-My own *simple definition* of what a builder pattern does, is just that its `Builder class` replaces most of the `setters`. And this is great when for example a complex object needs to create several different representations. Using the same construction proccess. 
+My own *simple definition* of what a builder pattern does, is that its `Builder class` replaces `setters`. This is great when for example a complex object needs to create several different representations, using the same construction proccess. 
 
 The purpose can be to protect the data, so only the `Builder` knows the specifics.   
 
