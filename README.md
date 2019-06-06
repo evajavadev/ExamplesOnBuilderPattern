@@ -10,7 +10,7 @@ My own *simple definition* of what a builder pattern does, is just that its `bui
 
 The purpose can be to protect the data, so only the `Builder` knows the specifics.   
 
-To make this happen, a `public static Builder class` is created. And its `constructor`. And these two guys must reside inside the public class    
+To make this happen, a `public static Builder class` is created. And its `constructor`. And these two guys must reside inside the public class of the data.   
 
 <br>
 
