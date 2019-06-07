@@ -50,15 +50,7 @@ I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPatter
 <br>
 
 
-### example 3
-
-...
-
-<br>
-<br>
-
-
-### example 4
+### example 3 
 
 ...
 
