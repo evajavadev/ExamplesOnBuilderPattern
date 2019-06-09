@@ -50,7 +50,7 @@ This is nice. But there must be a shorter way to code.
 
 Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code `builders` from his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
 
-In a simple way, I just did a "sout" (`System.out.println`) to start out.      
+I did a "sout" (`System.out.println` in IntelliJ) to start out. When printing an object to a print stream, it will return a string representation of the hash code. And this integer just tells were         
 
 ![the first promt on computer components](/images/soutComputerComponents1.jpg)
 
