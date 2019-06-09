@@ -30,7 +30,6 @@ I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPatter
 
 ![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
 
-<br>
 <br> 
 
 But I had to test. How would the code look if I create several robots?
