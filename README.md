@@ -50,7 +50,7 @@ This is nice. But there must be a shorter way to code.
 
 Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code `builders` from his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
 
-I did a "sout" (IntelliJ's `System.out.println`) to start out. When printing an object to a print stream, it will return a string representation of a hash code. This integer just tells the place were the variable's content resides.
+I did a "sout" (IntelliJ's `System.out.println`) to start out. When printing an object to a `print stream`, it will return a string representation of a `hash code`. This integer just tells the place were the variable's content resides.
 
 ...
 
