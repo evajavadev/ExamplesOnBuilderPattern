@@ -8,7 +8,7 @@ public class SecondRobotBuilderImpl implements RobotBuilder {
 
     @Override
     public void buildRobotHead() {
-        robot.setRobotHead("with two yellow cameras, and a hear blue like the sky");
+        robot.setRobotHead("with two yellow cameras, and a hair blue like the sky");
     }
 
     @Override
