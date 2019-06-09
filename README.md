@@ -28,19 +28,19 @@ I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPatter
 
 ...and how the corresponding main method's code in the file `RobotLauncher.java` looks. 
 
-![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
+![code for the result on one robot](/images/soutFirstRobotBuilderImpl.jpg) 
 
 <br> 
 
 But I had to test. How would the code look if I create several robots?
 
-![promt on robots](/images/RobotsOnWay.jpg)
+![code for serveral robots](/images/RobotsOnWay.jpg)
 
 <br>
 
 This is nice. But there must be a shorter way to code.
 
-![promt on robots' code](/images/soutRobotsOnWay.jpg)
+![promt on the result for several robots](/images/soutRobotsOnWay.jpg)
 
 <br>
 <br>
@@ -48,19 +48,19 @@ This is nice. But there must be a shorter way to code.
 
 ### Computer Components
 
-Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code builders from his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
+Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code `builders` from his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
 
 ...     
 
-![utrymmet](/images/soutComputerComponents1.jpg)
+![the first promt on computer components](/images/soutComputerComponents1.jpg)
 
 <br>
 
-![e1](/images/ComputerComponents_ComputerClient.jpg)
+![code for ...](/images/ComputerComponents_ComputerClient.jpg)
 
 <br>
 
-![e2](/images/ComputerComponents_ComputerBuilderDirector.jpg)
+![code for ...](/images/ComputerComponents_ComputerBuilderDirector.jpg)
 
 ...
 
