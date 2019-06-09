@@ -8,7 +8,7 @@
 
 My own *simple definition* of what a builder pattern does, is that its `Builder class` replaces `setters`. This is great when for example a complex object needs to create several different representations, using the same construction proccess. 
 
-The purpose among others, is to protect the data. So only the `Builder` knows the specifics.   
+The purpose among others, is to protect the data. So only the `Builder` knows the specifics. Also, if the program besides its required elements has optional elements.   
 
 To make this happen, a `public static Builder class` together with its `constructor` are created. These two guys must reside inside the `public class of the Data`.   
 
@@ -50,7 +50,7 @@ This is nice. But there must be a shorter way to code.
 
 Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code `builders` from his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
 
-...     
+In a simple way, I just did a "sout" (`System.out.println`) to start out.      
 
 ![the first promt on computer components](/images/soutComputerComponents1.jpg)
 
