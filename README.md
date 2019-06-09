@@ -59,14 +59,14 @@ The highest class in Java is the [`Object class`](https://docs.oracle.com/javase
 
 <br>
 
+...
+
 ![code for ...](/images/ComputerComponents_ComputerClient.jpg)
 
 <br>
 
 ![code for ...](/images/ComputerComponents_ComputerBuilderDirector.jpg)
-
-...
-
+ 
 <br>
 <br>
 
