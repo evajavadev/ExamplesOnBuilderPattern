@@ -52,11 +52,17 @@ Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code b
 
 ...     
 
-<!-- --> 
+![utrymmet](/images/soutComputerComponents1.jpg)
 
 <br>
 
-...and
+![e1](/images/ComputerComponents_ComputerClient.jpg)
+
+<br>
+
+![e2](/images/ComputerComponents_ComputerBuilderDirector.jpg)
+
+...
 
 <br>
 <br>
