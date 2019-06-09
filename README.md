@@ -26,13 +26,12 @@ I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPatter
 
 <br>
 
-And how the code to the main method in the file `RobotLauncher.java` looks. Corresponding the compiled result.
+...and how the corresponding main method's code in the file `RobotLauncher.java` looks. 
 
 ![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
 
 <br>
-<br>
-<br>
+<br> 
 
 But I had to test. How would the code look if I create several robots?
 
@@ -40,7 +39,7 @@ But I had to test. How would the code look if I create several robots?
 
 <br>
 
-...
+This is nice. But there must be a shorter way to code.
 
 ![promt on robots' code](/images/soutRobotsOnWay.jpg)
 
