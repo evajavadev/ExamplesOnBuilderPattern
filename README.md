@@ -34,9 +34,13 @@ And how the code to the main method in the file `RobotLauncher.java` looks. Corr
 <br>
 <br>
 
+But I had to test. How would the code look if I create several robots?
+
 ![promt on robots](/images/RobotsOnWay.jpg)
 
 <br>
+
+...
 
 ![promt on robots' code](/images/soutRobotsOnWay.jpg)
 
