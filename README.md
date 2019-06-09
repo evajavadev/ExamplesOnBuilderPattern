@@ -48,7 +48,7 @@ This is nice. But there must be a shorter way to code.
 
 ### Computer Components
 
-Here [Pankaj](https://www.youtube.com/user/JournalDev) guiding on how to code builders, in his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
+Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code builders from his article [Builder Design Pattern in Java](https://www.journaldev.com/1425/builder-design-pattern-in-java). 
 
 ...     
 
