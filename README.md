@@ -52,9 +52,7 @@ Here [Pankaj](https://www.youtube.com/user/JournalDev), guiding on how to code `
 
 I did a "sout" (IntelliJ's `System.out.println`) to start out. When printing an object to a `print stream`, it will return a string representation of a `hash code`. This integer simply just shows the object's physical address.
 
-The highest class in Java is the `Object class`. And from here all objects inherit methods. One of the methods is `toString()`.
-
-And when this method isn't overridden, it usually return an object's physical address.
+The highest class in Java is the [`Object class`](https://docs.oracle.com/javase/10/docs/api/java/lang/Object.html). From here all objects inherit methods. One of the methods is `toString()`. And when this method isn't overridden, it usually returns an object's physical address.
  
 
 ![the first promt on computer components](/images/soutComputerComponents1.jpg)
