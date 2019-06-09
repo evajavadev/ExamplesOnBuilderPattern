@@ -8,9 +8,9 @@
 
 My own *simple definition* of what a builder pattern does, is that its `Builder class` replaces `setters`. This is great when for example a complex object needs to create several different representations, using the same construction proccess. 
 
-The purpose can be to protect the data, so only the `Builder` knows the specifics.   
+The purpose among others, can be to protect the data. So only the `Builder` knows the specifics.   
 
-To make this happen, a `public static Builder class` is created. And its `constructor`. And these two guys must reside inside the `public class of the Data`.   
+To make this happen, a `public static Builder class` together with its `constructor` are created. These two guys must reside inside the `public class of the Data`.   
 
 <br>
 <br>
