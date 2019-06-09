@@ -26,7 +26,7 @@ I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPatter
 
 <br>
 
-And how the code to the main method in the file `RobotLauncher.java` looks.
+And how the code to the main method in the file `RobotLauncher.java` looks. Corresponding the compiled result.
 
 ![promt on robot code](/images/soutFirstRobotBuilderImpl.jpg) 
 
