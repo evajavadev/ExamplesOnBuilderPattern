@@ -20,7 +20,7 @@ To make this happen, a `public static Builder class` together with its `construc
 
 This program is from [Derek Banas](https://www.youtube.com/user/derekbanas) video [Builder Design Pattern](https://www.youtube.com/watch?v=9XnsOpjclUg). 
 
-I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPattern/tree/master/InRobotStyle) and class names. First below the compiled result.     
+I have changed some [code](https://github.com/evajavadev/ExamplesOnBuilderPattern/tree/master/InRobotStyle), text and class names. First below the compiled result.     
 
 ![promt on a robot](/images/aRobotOnWay.jpg) 
 
